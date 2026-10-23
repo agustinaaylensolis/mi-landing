@@ -1,0 +1,1 @@
+Este proyecto consiste en una pequeña practica de comandos CLI básicos de GIT junto a su conexión con un repositorio remoto GitHub. 
